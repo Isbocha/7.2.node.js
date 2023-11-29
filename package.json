@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Isbocha/7.2.node.js.git"
+  },
+  "author": "\"bocharova\"\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Di.bocharova\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isbocha/7.2.node.js/issues"
+  },
+  "homepage": "https://github.com/Isbocha/7.2.node.js#readme"
+}
